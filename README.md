@@ -1,4 +1,4 @@
--ta sử dụng linux để giao tiếp với board 
+-ta sử dụng linux để giao tiếp với board. 
 sudo apt update
 sudo apt install mosquitto-clients
 -ESP32 gửi nhiệt độ lên linux
